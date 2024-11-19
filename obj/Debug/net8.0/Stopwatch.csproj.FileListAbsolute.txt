@@ -1,0 +1,15 @@
+/home/douglas/Documents/Source/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/douglas/Documents/Source/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/douglas/Documents/Source/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/douglas/Documents/Source/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/douglas/Documents/Source/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/Stopwatch.sourcelink.json
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/douglas/Documents/Source/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
