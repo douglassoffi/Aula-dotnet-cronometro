@@ -1,4 +1,5 @@
 ﻿using System.Runtime.Intrinsics.Arm;
+using System.Text.RegularExpressions;
 
 namespace Stopwatch
 {
@@ -27,7 +28,7 @@ namespace Stopwatch
             if (data == "0")
                 return;
 
-            if (!System.Text.RegularExpressions.Regex.IsMatch(data, @"^[1-9]\d*[sm]$"))
+            if (!Regex.IsMatch(data, @"^[1-9]\d*[sm]$"))
             {
                 Console.Clear();
                 Console.WriteLine("Formato inválido. Use número seguido de S ou M.");
